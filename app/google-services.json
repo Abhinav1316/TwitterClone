@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494328052438",
+    "project_id": "twitter-57682",
+    "storage_bucket": "twitter-57682.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494328052438:android:26d5945f9af68dff5ee777",
+        "android_client_info": {
+          "package_name": "com.abhinav.twitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494328052438-97a1117ijk466jfs0p2slgptmms93b0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTx6bMqQ0hAz5TU_MVNYPq8B_ALP9yg4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494328052438-97a1117ijk466jfs0p2slgptmms93b0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
